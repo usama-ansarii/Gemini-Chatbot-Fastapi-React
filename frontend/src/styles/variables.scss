@@ -1,0 +1,17 @@
+// ===== Theme Variables =====
+$primary-color: #1b1f3b;
+$secondary-color: #2a5298;
+$accent-color: #00b4d8;
+$accent-hover: #48cae4;
+$bg-gradient: linear-gradient(135deg, $primary-color, $secondary-color);
+
+// ===== Text =====
+$text-light: #f8fafc;
+$text-dark: #1e293b;
+
+// ===== Border / Radius =====
+$radius-md: 12px;
+$radius-lg: 20px;
+
+// ===== Transitions =====
+$transition: 0.3s ease all;
