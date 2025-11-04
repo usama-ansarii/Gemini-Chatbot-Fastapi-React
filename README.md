@@ -43,12 +43,10 @@ A modern AI chatbot built with **React.js**, **FastAPI**, and **Google Generativ
 
 ## Gemini Chatbot Demo
 
-<video src="https://raw.githubusercontent.com/usama-ansarii/Gemini-Chatbot-Fastapi-React/main/assets/Gemini_Chatbot_Demo.webm" 
-       controls 
-       width="600">
-</video>
+<video src="https://raw.githubusercontent.com/usama-ansarii/Gemini-Chatbot-Fastapi-React/main/Chatbot%20demo.webm" controls width="600"></video>
 
-[Click here if the video doesn’t load](https://raw.githubusercontent.com/usama-ansarii/Gemini-Chatbot-Fastapi-React/main/assets/Gemini_Chatbot_Demo.webm)
+[Click here if the video doesn’t load](https://raw.githubusercontent.com/usama-ansarii/Gemini-Chatbot-Fastapi-React/main/Chatbot%20demo.webm)
+
 
 
 ## Getting Started
